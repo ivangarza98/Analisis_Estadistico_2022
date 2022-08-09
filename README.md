@@ -8,3 +8,7 @@
   + :date: 09/08/2022: Preparación de nuestro equipo de computo.
   + :date: 09/08/2022: Laboratorio 1
   + :date: 09/08/2022: Tarea 1
+
+
+### Semana 2
+  + Tareas
