@@ -5,7 +5,7 @@
 ## Contenido del curso:
 
 ### Semana 1 :date:09/08/2022:
-  + :notebook: Preparación de nuestro equipo de computo.
+  + :computer: Preparación de nuestro equipo de computo.
   + :paperclip: Laboratorio 1
   + :paperclip: Tarea 1
 
