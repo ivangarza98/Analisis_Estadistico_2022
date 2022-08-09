@@ -1,0 +1,2 @@
+# Analisis_Estadistico_2022
+Repositorio_para_la_clase_laboratorios_y_tareas
