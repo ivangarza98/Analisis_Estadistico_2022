@@ -12,7 +12,3 @@
 
 ### Semana 2 :date:16/08/22
   + :notebook: Ingreso de datos a R
-<<<<<<< HEAD
-=======
-  
->>>>>>> 03553fe63236ab1130dd736b28ab5b2d3c79b576
