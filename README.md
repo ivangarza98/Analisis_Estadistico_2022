@@ -10,5 +10,5 @@
   + :paperclip: Tarea 1
 
 
-### Semana 2 :date:
-  + Tareas:
+### Semana 2 :date:10/08/22
+  + 
