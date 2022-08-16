@@ -10,5 +10,5 @@
   + :paperclip: Tarea 1
 
 
-### Semana 2 :date:10/08/22
-  + 
+### Semana 2 :date:16/08/22
+  + :notebook: Ingreso de datos a R
