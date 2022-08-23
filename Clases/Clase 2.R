@@ -34,7 +34,8 @@ quantile(dbh, 0.15)
 quantile(dbh, 0.30)
 # Gráfica -----------------------------------------------------------------
 
-boxplot(dbh, horizontal = T, col = "lightgreen", ylab = "Diámetro (cm)", xlab = "Sitio 1", main = "Parcela Bosque Escuela")
+boxplot(dbh, horizontal = T, col = "lightgreen", ylab = "Diámetro (cm)", xlab = "Sitio 1",
+        main = "Parcela Bosque Escuela")
 
 hist(dbh, col = "lightgreen", ylab = "Frecuencia", xlab = "Diámetro (cm)",
      main = "Sitio Bosque Escuela", ylim = c(0,10))
@@ -43,12 +44,12 @@ stem(dbh, scale = 2)
 
 dbh50 <- sample(dbh, 10, replace = TRUE)
 
-set.seed(45)
-dbh50 <- rnorm(50, mean = 10, sd = 2)
+set.seed(50)
+dbh50 <- rnorm(50)
 hist(dbh50)
-dbh10 <- rnorm(10, mean = 10, sd = 2)
+dbh10 <- rnorm(10)
 hist(dbh10)
-dbh100 <- rnorm(100, mean = 10, sd = 2)
+dbh100 <- rnorm(100)
 hist(dbh100)
-dbh1000 <- rnorm(1000, mean = 10, sd = 2)
+dbh1000 <- rnorm(1000)
 hist(dbh1000)
