@@ -15,4 +15,8 @@
 
 
 ### Semana 3 :date:23/08/22
-  + :notebook: 
+  + :notebook: Tipos de variables
+  
+
+### Semana 4 :date:30/08/22
+  + :notebook: Función "table" y "dyplr" y dudas de laboratorios.
