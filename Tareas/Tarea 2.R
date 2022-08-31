@@ -75,8 +75,3 @@ library(repmis)
 conjunto2 <- source_data("https://www.dropbox.com/s/hmsf07bbayxv6m3/cuadro1.csv?dl=1")
 conjunto2
 head(conjunto2)
-
-
-
-
-
