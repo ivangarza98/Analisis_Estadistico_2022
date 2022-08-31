@@ -6,9 +6,7 @@
 
 getwd()
 
-read.csv("laboratorios/DBH_1.CSV")
-
-trees <- read.csv("laboratorios/DBH_1.csv")
+trees <- read.csv("DBH_1.csv")
 
 head(trees)
 
@@ -95,3 +93,4 @@ barplot(feeds[order(feeds, decreasing = T)],
         las = 1,
         xlab = "Numero de pollos",
         col = colorRampPalette(c('goldenrod2','gold','khaki1'))(6))
+
