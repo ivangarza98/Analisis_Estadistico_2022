@@ -92,5 +92,5 @@ barplot(feeds[order(feeds, decreasing = T)],
         horiz = T,
         las = 1,
         xlab = "Numero de pollos",
-        col = colorRampPalette(c('goldenrod2','gold','khaki1'))(6))
-
+        col = colorRampPalette(c('goldenrod2','gold','khaki1'))(6),
+        cex.names = 0.7)
