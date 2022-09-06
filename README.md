@@ -20,3 +20,7 @@
 
 ### Semana 4 :date:30/08/22
   + :notebook: Función "table" y "dyplr" y dudas de laboratorios.
+
+
+### Semana 5 :date:06/09/22
+  + :notebook: Pruebas de T
