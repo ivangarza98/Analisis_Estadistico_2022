@@ -1,4 +1,4 @@
-# Clase 7
+# Clase 6
 # 20/09/22
 # Jorge Iván Garza Aldape
 
