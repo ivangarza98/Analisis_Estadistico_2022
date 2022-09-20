@@ -30,7 +30,7 @@ hist(chickwts$weight)
 
 shapiro.test(chickwts$weight)
 
-t.test(chickwts$weight, mu = 250)
+t.test(chickwts$weight, mu = 300, alternative = "less")
 
 
 # Dos muestras independientes -----------------------------------------------
