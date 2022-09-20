@@ -24,3 +24,11 @@
 
 ### Semana 5 :date:06/09/22
   + :notebook: Pruebas de T
+  
+  
+### Semana 6 :date:13/09/22
+  + :notebook: No hubo clase
+  
+  
+### Semana 7 :date:20/09/22
+  + :notebook: Correlaciones
