@@ -72,3 +72,5 @@ plot(suelo$pH, suelo$Conduc)
 
 # Hipótesis alternativa:
 # Existen correlaciones positivas y negativas entre el suelo y las variables de medicion.
+
+DatosSuelo
